@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Puppy 1",
+    "image": "https://dogtime.com/assets/uploads/2010/12/puppies.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Puppy 2",
+    "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12193133/German-Shepherd-Puppy-Fetch.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Puppy 3",
+    "image": "https://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Puppy 4",
+    "image": "https://static.scientificamerican.com/sciam/cache/file/D059BC4A-CCF3-4495-849ABBAFAED10456_source.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Puppy 5",
+    "image": "https://parade.com/wp-content/uploads/2018/03/golden-puppy-life-national-geographic-ftr-1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Puppy 6",
+    "image": "https://i.kinja-img.com/gawker-media/image/upload/s--vaC0BSO_--/c_scale,f_auto,fl_progressive,q_80,w_800/l8bricwb5lg4fcisxvjh.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Puppy 7",
+    "image": "https://cdn.vox-cdn.com/thumbor/YEE5J4Qilinte0CWTG7hRDEhxJA=/0x0:1920x1280/1200x800/filters:focal(807x487:1113x793)/cdn.vox-cdn.com/uploads/chorus_image/image/61479233/dog_2988868_1920.0.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Puppy 8",
+    "image": "https://images.squarespace-cdn.com/content/v1/532e595ee4b05724b5057a9d/1536854010001-RXLQ0SAMIBWNMCFZNGIU/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/bLAZE3.19.jpg",
+    "clicked": false
+  }
+  
+]
